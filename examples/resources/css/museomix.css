@@ -1,3 +1,6 @@
 .msx {
 	background-color:#FFEC00;
 }
+#example_list li {
+	padding: 5px 0;
+}
